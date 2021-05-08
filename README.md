@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamieWindfox
 - 👀 I’m interested in Games, fantasy, science fiction and nature
 - 🌱 I’m currently learning how to make a game
-- 💞️ I’m looking to collaborate on gane jams
+- 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me jamie.windfuchs@gmail.com
 
 <!---
